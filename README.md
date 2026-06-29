@@ -3,7 +3,7 @@
   <img src="screenshots/home page.jpeg" width="700"/>
 </p>
 
-##📖 Overview
+--📖 Overview--
 
 The Medical Claim System is a web-based application developed to simplify the medical reimbursement process for members of the CEYPETCO Executive Officers Union.
 
@@ -18,7 +18,7 @@ View claim history
 
 Committee members can review, approve, or reject submitted claims through a dedicated approval interface.
 
-✨ Features
+--✨ Features---
 👤 Member
 Member Registration
 Secure Login
@@ -29,6 +29,7 @@ View Claim History
 Manage Dependents
 Pay Membership Fees
 Update Profile
+
 👨‍💼 Committee Member
 Review Medical Claims
 Approve Claims
@@ -41,7 +42,7 @@ Manage Claim Types
 Manage Membership Fees
 Manage Committee Members
 System Configuration
-
+---
 📌 Badges
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 

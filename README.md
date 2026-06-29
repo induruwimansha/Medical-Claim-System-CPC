@@ -7,7 +7,7 @@
 
 The Medical Claim module enables union members to submit medical reimbursement requests digitally. Members can select a claim type, enter the requested amount, upload supporting documents, and track submitted claims through a user-friendly interface.
 
-
+---
 
 ✨ Features
 
@@ -27,6 +27,8 @@ The Medical Claim module enables union members to submit medical reimbursement r
 
 ✅ Display submitted medical claims history
 
+----
+
 ⚙️ Technologies Used
 React.js
 Node.js
@@ -35,6 +37,7 @@ MongoDB
 Axios
 CSS
 REST API
+----
 🔄 Workflow
 Member Login
       │
@@ -61,6 +64,7 @@ Stored in MongoDB
       │
       ▼
 Committee Review
+---
 
 🎯 Responsibilities
 Developed the Medical Claim user interface using React.
@@ -71,6 +75,7 @@ Implemented document upload functionality.
 Connected frontend with MongoDB through Express APIs.
 Tested submission flow and handled error messages.
 Improved usability through clean UI and intuitive navigation.
+------
 
 📚 What I Learned
 React state management
@@ -81,6 +86,7 @@ MongoDB CRUD operations
 Responsive UI development
 Error handling
 User experience improvements
+---
 
 📈 Internship Evidence
 

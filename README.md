@@ -67,6 +67,7 @@ Committee Review
 ---
 
 🎯 Responsibilities
+
 Developed the Medical Claim user interface using React.
 Designed responsive layouts for multiple screen sizes.
 Implemented client-side form validation.

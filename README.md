@@ -3,57 +3,93 @@
   <img src="screenshots/home page.jpeg" width="700"/>
 </p>
 
---📖 Overview--
+📌 Overview
 
-The Medical Claim System is a web-based application developed to simplify the medical reimbursement process for members of the CEYPETCO Executive Officers Union.
+The Medical Claim module enables union members to submit medical reimbursement requests digitally. Members can select a claim type, enter the requested amount, upload supporting documents, and track submitted claims through a user-friendly interface.
 
-The system enables members to:
 
-Submit medical claims
-Upload supporting documents
-Track claim status
-Manage dependents
-Pay membership fees
-View claim history
 
-Committee members can review, approve, or reject submitted claims through a dedicated approval interface.
+✨ Features
 
---✨ Features---
-👤 Member
-Member Registration
-Secure Login
-View Dashboard
-Submit Medical Claims
+✅ View available medical claim categories
+
+✅ Select claim type with maximum claim limit
+
+✅ Enter requested reimbursement amount
+
+✅ Upload supporting medical documents
+
+✅ Client-side form validation
+
+✅ Submit claim request securely
+
+✅ Responsive user interface
+
+✅ Display submitted medical claims history
+
+⚙️ Technologies Used
+React.js
+Node.js
+Express.js
+MongoDB
+Axios
+CSS
+REST API
+🔄 Workflow
+Member Login
+      │
+      ▼
+Medical Claim Page
+      │
+      ▼
+Select Claim Type
+      │
+      ▼
+Enter Claim Amount
+      │
+      ▼
 Upload Medical Bills
-View Claim History
-Manage Dependents
-Pay Membership Fees
-Update Profile
+      │
+      ▼
+Validation
+      │
+      ▼
+Submit Claim
+      │
+      ▼
+Stored in MongoDB
+      │
+      ▼
+Committee Review
 
-👨‍💼 Committee Member
-Review Medical Claims
-Approve Claims
-Reject Claims
-Add Remarks
-View Member Details
-⚙ Administrator
-Manage Members
-Manage Claim Types
-Manage Membership Fees
-Manage Committee Members
-System Configuration
----
-📌 Badges
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
+🎯 Responsibilities
+Developed the Medical Claim user interface using React.
+Designed responsive layouts for multiple screen sizes.
+Implemented client-side form validation.
+Integrated REST APIs using Axios.
+Implemented document upload functionality.
+Connected frontend with MongoDB through Express APIs.
+Tested submission flow and handled error messages.
+Improved usability through clean UI and intuitive navigation.
 
-![Node.js](https://img.shields.io/badge/Node.js-Express-green?logo=node.js)
+📚 What I Learned
+React state management
+File upload handling
+REST API integration
+Form validation
+MongoDB CRUD operations
+Responsive UI development
+Error handling
+User experience improvements
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+📈 Internship Evidence
 
-![License](https://img.shields.io/badge/License-MIT-blue)
+This module was developed during my internship as part of the CEYPETCO Executive Officers Union Management System.
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
+Related activities recorded in my internship diary include:
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Medical-Claim-System-CPC)
-
-![Issues](https://img.shields.io/github/issues/induruwimansha/Medical-Claim-System-CPC)
+Designed and implemented the Medical Claim module.
+Added validation for required fields.
+Improved data integrity by preventing invalid submissions.
+Developed dashboard analytics integration.
+Optimized API communication and frontend performance.

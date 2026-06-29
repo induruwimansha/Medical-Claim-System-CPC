@@ -1,4 +1,4 @@
 # Medical-Claim-System-CPC
 <p align="center">
-  <img src="screenshots/first page.png" width="700"/>
+  <img src="screenshots/home page.jpeg" width="700"/>
 </p>

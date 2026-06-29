@@ -3,7 +3,7 @@
   <img src="screenshots/home page.jpeg" width="700"/>
 </p>
 
-📖 Overview
+##📖 Overview
 
 The Medical Claim System is a web-based application developed to simplify the medical reimbursement process for members of the CEYPETCO Executive Officers Union.
 
